@@ -4,6 +4,10 @@ Meu nome é Lucas, sou jornalista (PUCPR, bacharel) e cientista de dados (UTFPR,
 Atualmente lidero a área de marketing, com foco em dados, em uma empresa de climatização.
 Estou me especializando em Ciência de Dados (UTFPR) e desenvolvendo pesquisas acadêmica através do Núcleo de Estudos em Jornalismo de Dados e Computacional (DataJor), do IDP.
 
-### Projetos
+### Ferramentas e Habilidades
 
-No momento meus projetos envolvem principalmente os trabalhos da especialização em Ciência de Dados e em pesquisas acadêmicas do DataJor.
+- Python (Pandas, NumPy, Matplotlib/Pyplot, BeautifulSoup, ScikitLearn)
+- SQL
+- Power BI
+- Arquitetura de dados (S3, Airflow, Spark, DBT)
+- Produção de conteúdo
