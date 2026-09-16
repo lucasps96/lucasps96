@@ -11,4 +11,7 @@ Sou bacharel em Comunicação Social - Jornalismo pela PUCPR e estou me especial
 - SQL
 - Power BI
 - Arquitetura de dados (S3, Airflow, Spark, dbt)
+- KDD
 - Produção de conteúdo
+
+Fale comigo: luck.ps@gmail.com
