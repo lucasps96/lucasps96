@@ -10,5 +10,5 @@ Sou bacharel em Comunicação Social - Jornalismo pela PUCPR e estou me especial
 - Python (Pandas, NumPy, Matplotlib/Pyplot, BeautifulSoup, ScikitLearn)
 - SQL
 - Power BI
-- Arquitetura de dados (S3, Airflow, Spark, DBT)
+- Arquitetura de dados (S3, Airflow, Spark, dbt)
 - Produção de conteúdo
