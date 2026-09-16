@@ -7,4 +7,3 @@ Estou me especializando em Ciência de Dados (UTFPR) e desenvolvendo pesquisas a
 ### Projetos
 
 No momento meus projetos envolvem principalmente os trabalhos da especialização em Ciência de Dados e em pesquisas acadêmicas do DataJor.
-
