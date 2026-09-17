@@ -14,3 +14,7 @@ Sou bacharel em Comunicação Social - Jornalismo pela PUCPR e estou me especial
 Fale comigo: luck.ps@gmail.com
 
 
+<p align="center">
+  <img src="assets/Linux_mascot_tux.jpeg" width="20">
+</p>
+
