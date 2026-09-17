@@ -5,7 +5,7 @@ Atualmente lidero a área de marketing, com foco em dados, em uma empresa de cli
 
 Sou bacharel em Comunicação Social - Jornalismo pela PUCPR e estou me especializando em Ciência de Dados na UTFPR. Também desenvolvo pesquisa acadêmica através do Núcleo de Estudos em Jornalismo de Dados e Computacional (DataJor), do IDP.
 
-### Linguagens que utilizo
+### Linguagens e bibliotecas que utilizo
   - Python (Pandas, NumPy, Matplotlib, BeautifulSoup, scikit-learn)
   - SQL
   - Bash
