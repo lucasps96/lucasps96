@@ -1,9 +1,9 @@
 ## Hi there 👋
-Meu nome é Lucas, sou jornalista e cientista de dados em formação. Sou um entusiasta de tecnologia desde que me conheço como gente.
+Meu nome é Lucas, sou jornalista e estou me especializando em ciência de dados.
 
 Atualmente atuo com marketing e dados em uma empresa de climatização.
 
-Sou bacharel em Comunicação Social - Jornalismo pela PUCPR e estou me especializando em Ciência de Dados na UTFPR. Também desenvolvo pesquisa acadêmica através do Núcleo de Estudos em Jornalismo de Dados e Computacional (DataJor), do IDP.
+Também desenvolvo pesquisa acadêmica através do Núcleo de Estudos em Jornalismo de Dados e Computacional (DataJor), do IDP.
 
 ### Linguagens e bibliotecas que utilizo
   - Python (Pandas, NumPy, Matplotlib, BeautifulSoup, scikit-learn)
